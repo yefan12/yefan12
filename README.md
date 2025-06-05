@@ -1,4 +1,4 @@
-## Hi there 👋
+![yefan12's GitHub stats](https://github-readme-stats.vercel.app/api?username=yefan12&show_icons=true&theme=default)
 
 <!--
 **yefan12/yefan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
